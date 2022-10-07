@@ -25,3 +25,14 @@
 .shoe-img {
     width: 100%;
 }
+
+.heart {
+    position: absolute;
+    display: inline-block;
+    right: 0;
+    top: 0;
+    color: gray;
+    background-color: gainsboro;
+    padding: 8px 10px;
+    border-radius: 50%;
+}
