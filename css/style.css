@@ -36,3 +36,14 @@
     padding: 8px 10px;
     border-radius: 50%;
 }
+
+.discount, .eco {
+    background-color: red;
+    padding: 5px;
+    font-size: 12px;
+    color: white;
+}
+
+.eco {
+    background-color: green;
+}
